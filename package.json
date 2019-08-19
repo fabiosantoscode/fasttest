@@ -1,0 +1,19 @@
+{
+  "name": "fasttest",
+  "version": "2.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --require test/setup.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "webdriver": "^5.11.0",
+    "webdriverio": "^5.11.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
