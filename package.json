@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "webdriver": "^5.11.0",
     "webdriverio": "^5.11.2"
   },
